@@ -1,3 +1,4 @@
 Realisasi Resolusi
  - Menyelesaikan pelatihan di Dicoding dan YT WebProgamingUNPAS
  - Memperbanyak membuat portofolio WEB
+ - Meningkatkan literasi tentang Frontend dan Python
